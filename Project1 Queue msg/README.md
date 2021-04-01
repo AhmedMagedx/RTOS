@@ -16,10 +16,7 @@ it has a simple task of show indication on LED every second that the system is r
 # Simulation Video 
 
 
-@[youtube](https://youtu.be/6kngCyLNdPs)
-
-
-!youtube[ video ]( https://youtu.be/6kngCyLNdPs ){ size=10 cycle=forever }
+[youtube](https://youtu.be/6kngCyLNdPs)
 
 
 # Used
