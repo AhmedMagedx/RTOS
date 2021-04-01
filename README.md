@@ -1,2 +1,2 @@
 # RTOS
-contain a simple rtos projects
+contain a simple rtos projects.
