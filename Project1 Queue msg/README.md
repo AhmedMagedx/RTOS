@@ -16,7 +16,7 @@ it has a simple task of show indication on LED every second that the system is r
 # Simulation Video 
 
 
-@[video](./video/project1_Queue.mp4)
+@[youtube](https://youtu.be/6kngCyLNdPs)
 
 
 
