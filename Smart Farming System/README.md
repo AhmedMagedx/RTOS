@@ -6,6 +6,8 @@ a real time (RTOS-based) system that enable controlling:
 
 2 - and Cooler and heater based on the temperature sensor data.
 
+3 - also configure the threshold for both temperature and humidity in run-time by PC (terminal interfacing)
+
 ## Tasks 
 
 the system consist of 6 tasks:
