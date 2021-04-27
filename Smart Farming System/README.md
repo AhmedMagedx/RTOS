@@ -36,3 +36,9 @@ the system consist of 6 tasks:
 ![Tasksdiagram](./img/controlStateMachine.png)
 
 
+### Simulation Video
+
+![Video](https://www.youtube.com/watch?v=notwzrVyUWs)
+
+
+
