@@ -1,6 +1,6 @@
 #   Smart Farming System
 
-a real time (RTOS-based) system that enable controlling:
+a real time (RTOS-based) system that enables controlling:
 
 1 - a water pump based on the humidity sensor data.
 
@@ -38,7 +38,6 @@ the system consist of 6 tasks:
 
 ### Simulation Video
 
-![Video](https://www.youtube.com/watch?v=notwzrVyUWs)
 
-
+[![Video](https://www.youtube.com/watch?v=notwzrVyUWs)](https://www.youtube.com/watch?v=notwzrVyUWs "SFS")
 
